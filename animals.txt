@@ -1,0 +1,210 @@
+Cat
+Dog
+Donkey
+Goat
+Horse
+Pig
+Rabbit
+African buffalo
+African elephant
+African leopard
+Alligator
+American buffalo
+American robin
+Anaconda
+Angelfish
+Ant
+Ape
+Arabian leopard
+Arctic Fox
+Arctic Wolf
+Armadillo
+Asp
+Ass (donkey)
+Baboon
+Bald eagle
+Bat
+Beaked whale
+Bear
+Bee
+Beetle
+Bird
+Bison
+Blackbird
+Black panther
+Black widow spider
+Blue bird
+Blue whale
+Bear
+Bobcat
+Box jellyfish
+Bovid
+Bug
+Butterfly
+Camel
+Carp
+Cat
+Catshark
+Caterpillar
+Catfish
+Cattle
+Centipede
+Chameleon
+Cheetah
+Chicken
+Chimpanzee
+Chipmunk
+Clownfish
+Cobra
+Cockroach
+Cow
+Crab
+Crane
+Crayfish
+Cricket
+Crocodile
+Crow
+Deer
+Dinosaur
+Dog
+Dolphin
+Donkey
+Dove
+Dragonfly
+Dragon
+Duck beetle
+Eagle
+Elephant seal
+Emu
+Falcon
+Firefly
+Fish
+Flamingo
+Flyingfish
+Fowl
+Fox
+Frog
+Gecko
+Giant panda
+Giant squid
+Gila monster
+Giraffe
+Goat
+Goldfish
+Goose
+Gorilla
+Grasshopper
+Great blue heron
+Great white shark
+Grizzly bear
+Ground shark
+Ground sloth
+Hammerhead shark
+Hamster
+Hare
+Hawk
+Hermit crab
+Hippopotamus
+Horse
+Hummingbird
+Humpback whale
+Hyena
+Iguana
+Jackal
+Jaguar
+Jellyfish
+Junglefowl
+Kangaroo
+Kingfisher
+Kite
+Koala
+Koi
+Komodo dragon
+Ladybug
+Land snail
+Leopard
+Lion
+Lizard
+Llama
+Lobster
+Mockingbird
+Monkey
+Mosquito
+Moth
+Mountain goat
+Mouse
+Mule
+Ocelot
+Octopus
+Ostrich
+Owl
+Ox
+Panda
+Panther
+Parrot
+Peacock
+Pig
+Pigeon
+Piranha
+Platypus
+Polar bear
+Porcupine
+Python
+Rabbit
+Raccoon
+Rat
+Rattlesnake
+Red panda
+Reindeer
+Reptile
+Rhinoceros
+Salmon
+Sawfish
+Scorpion
+Seahorse
+Shark
+Sheep
+Silverfish
+Sloth
+Snail
+Snake
+Sparrow
+Spider
+Spider monkey
+Squid
+Squirrel
+Stingray
+Tiger
+Tortoise
+Turtle
+Tyrannosaurus
+Vampire bat
+Vulture
+Wasp
+Water buffalo
+Whale
+Wildcat
+Wolf
+Woodpecker
+Worm
+Yak
+Zebra
+Cat
+Chicken
+Dog
+Domestic Camel
+Domestic duck
+Domestic goat
+Domestic goose
+Domestic pig
+Domestic pigeon
+Domestic rabbit
+Donkey
+Fancy mouse
+Fancy rat
+Lab rat
+Goldfish
+Horse
+Koi
+Llama
+Sheep
