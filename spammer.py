@@ -13,6 +13,9 @@ for line in f:
     animal.append(line.strip())
 
 for items in animal:
-    pyautogui.write(a+ " is a "+ items, interval = 0.1)
+    if items.startswith("a") or items.startswith("e") or items.startswith("i") or items.startswith("o") or items.startswith("u"):
+        pyautogui.write(a+ " is an "+ items, interval = 0.1)
+    else:
+        pyautogui.write(a+ " is a "+ items, interval = 0.1)
     pyautogui.press("enter")
 
