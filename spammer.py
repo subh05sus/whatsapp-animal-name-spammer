@@ -1,19 +1,29 @@
 import time
 import pyautogui
 
+animal=[]
 
 a=input("What is the victim name ?: ")
 print("Open whatsapp or other messaging app in 5 secs")
-time.sleep(5)
-animal=[]
+time.sleep(2)
+vowel = "aeiou"
+
 
 f = open('animals.txt','r')
 
 for line in f:
     animal.append(line.strip())
 
+
+def vowelStart(s):
+    if(s[0]=="A" or s[0]=="E" or s[0]=="I" or s[0]=="O" or s[0]=="U"):
+        return True
+    return False
+
+pyautogui.FAILSAFE = False
+
 for items in animal:
-    if items.startswith("a") or items.startswith("e") or items.startswith("i") or items.startswith("o") or items.startswith("u"):
+    if vowelStart(items):
         pyautogui.write(a+ " is an "+ items, interval = 0.1)
     else:
         pyautogui.write(a+ " is a "+ items, interval = 0.1)
