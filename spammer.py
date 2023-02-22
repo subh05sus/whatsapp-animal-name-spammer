@@ -19,3 +19,9 @@ for items in animal:
         pyautogui.write(a+ " is a "+ items, interval = 0.1)
     pyautogui.press("enter")
 
+pyautogui.write("Haha, You'll die fool", interval=0.1)
+pyautogui.press("enter")
+pyautogui.write("NO OFFENCE", interval=0.1)
+pyautogui.press("enter")
+pyautogui.write("and also sorry for this :)", interval=0.1)
+pyautogui.press("enter")
